@@ -1,0 +1,38 @@
+a,ul{
+	text-decoration: none;
+	list-style: none;
+}
+
+body{
+	background-color: #666;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: sans-serif;
+}
+h1{
+	background-color: #999;
+}
+ul{
+	background-color: #999;
+	height: 400px;
+	width: 400px;
+	width: -50%;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -200px;
+	font-size: 40px;
+	color: #fff;
+}
+ul li{
+	margin-top: 30px;
+}
+img{
+	width: 70px;
+	background-color: 
+}
+.weather{
+	font-size: 15px;
+}
